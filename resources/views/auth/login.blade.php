@@ -8,8 +8,6 @@
         rel="stylesheet" 
         integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" 
         crossorigin="anonymous">
-        
-        
         <style>
             body {
                 background: url("{{ asset('/image/LoginPage.jpg') }}") no-repeat center center fixed;
